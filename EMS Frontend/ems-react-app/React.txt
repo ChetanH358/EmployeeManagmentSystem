@@ -1,0 +1,34 @@
+    // all documentations are available in react.org
+
+    Installation => 
+    install node.js and npm packages and in terminal type 
+
+    command to install bootstrap library -> npm install bootstrap --save
+    after installing add this line into the index.js -> import "bootstrap/dist/css/bootstrap.min.css";
+
+    /-------------------------------------------------------------------------------------------------------------------------------------------------------------------/
+
+    w.k.t we have classbased and funtion based component
+    * In class component we can define state but where as function components are stateless component
+    * In order to use state in funtional component we can use hook
+
+    Hooks ->
+    * useState -> is hook(function) that allows you to have state varibales in funtional components
+
+    * useEffect -> allows us to perform side effect(an action) in funtion components means component render and reRendering 
+        Effect Hooks are equivalent to componentDidMount() , componentDidUpdate(), and componentWillUnmount() lifecycle methods
+        in classbased components we use componentDidMount in the same way useEffect is used in funciton components to make ajax or API call
+
+    * useHistory -> gives you access to the history instance that you may use to navigate
+        After submitting the form user may able to navigate to the list-employee page for that we need navigation
+        Once we get history object we able to navigate
+
+    * useParams -> we need to retrive id from url . this hook provides object that contains key value pair from the url
+
+
+/--------------------------------------------------------------------------------------------------------------------------/
+
+type in Terminal -> npm install axios --save 
+
+
+

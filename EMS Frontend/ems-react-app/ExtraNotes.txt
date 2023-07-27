@@ -1,0 +1,12 @@
+    <<<<<<<<<<< This project uses React and bootstrap in front end and spring boot API as backend >>>>>>>>>>>
+
+    CRUD REST API using spring boot , spring Data JPA and MySQL 
+    React Hooks like -> useState , useEffect , useParams , useHistory
+    
+
+
+
+
+
+
+
